@@ -1,0 +1,3 @@
+change OMP_NUM_THREADS to change the number of threads actually copying stuff around
+
+I create three different excutables showing how one can have pprof profile the code
